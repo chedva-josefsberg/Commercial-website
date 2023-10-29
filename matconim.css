@@ -1,0 +1,296 @@
+#logo_up{
+    width: 100%;
+    height: 50%;
+    padding-left: 15%;  
+}
+#logo_3{
+    width:90px;
+    height: auto;
+    text-align:center;
+    float:right;
+}
+
+.logo{
+    width: 200px;
+    height:auto;
+    text-align:center;
+
+}
+
+.mutzarim{
+  
+    color: rgb(247, 171, 185);
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 1.5cm;
+   background-color: rgb(255, 255, 255);
+    margin-top: 15%;
+    margin-right: 40%; 
+    }
+
+h2{
+    color: rgb(247, 171, 185);
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 2cm;
+}
+
+h3{
+    color: rgb(247, 171, 185);
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 2.7cm;
+}
+
+h4{
+    color: rgb(247, 171, 185);
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: right;
+    font-size: 1cm;
+    text-align: center;
+}
+
+
+h5{
+    color: rgb(247, 171, 185);
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 2cm;
+
+}
+
+.a_1{
+    color: rgb(247, 171, 185);
+    font-size:200%;
+    text-decoration-color: rgb(247, 171, 185);
+    margin-left: 60%; 
+}
+
+.a_11{
+    color: rgb(247, 171, 185);
+    font-size:200%;
+    text-decoration-color: rgb(247, 171, 185);
+    margin-left: 10%; 
+
+
+}
+
+#div2{
+
+display: flex;  
+ white-space: pre;
+justify-content: space-around;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: baseline;
+align-content: space-between;
+margin-bottom: 7%;
+text-align: center;
+}
+
+img{
+    width: 360px;
+    height: 360px;
+text-align: center;
+}
+
+
+
+a{
+    color: rgb(250, 247, 248);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size:180%;
+}
+
+p{
+    color: rgb(0, 0, 0);
+    font-size: 140%;
+    text-align: center;
+}
+
+#table1 {
+    width: 100%;
+    height: 100%;
+
+}
+.div1 {
+    width: 100%;
+    background-color: rbg(241, 113, 136);
+    color: white;
+    margin-bottom: 7%;
+    background-color: rgb(247, 171, 185);
+    font-style: normal;
+    
+}
+
+.nav {
+    background-color: black;
+    color: floralwhite;
+    width: 100px;
+    height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.photo:hover{
+    width: 100%;
+    height: auto;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 0.7;
+}
+
+#logo2{
+  float: left;
+  width:auto;
+  padding: 9px;
+  padding-left: 15%;  
+}
+
+.td1 {
+    width: 20%;
+    height: 100%;
+    font-size: x-large;
+    border-collapse: collapse;
+    border-color: white;
+    border-width: medium;
+    border-style: solid;
+    background-color: #242424;
+    text-align:center;
+}
+
+nav {
+    background-color: black;
+    color: floralwhite;
+    width: 100px;
+    height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.snifim{
+    font-size:3vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(247, 171, 185);
+}
+
+.Personal {
+    width: 50%;
+    margin-right:40%;
+}
+
+
+h6{
+    width: 50%;
+    margin-right:35%; 
+    color: rgb(247, 171, 185);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 2cm;
+}
+
+.fg{
+    width:1505px;
+    height:400px;
+text-align: center;
+}
+
+.a_4{
+    width:505px;
+    height:auto;
+text-align: center;
+}
+
+.a_5{
+    width:305px;
+    height:auto;
+  margin-right:35%; 
+}
+
+
+
+span.widget-title {
+    line-height: 1.05;
+    letter-spacing: .05em;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    text-align: right;
+    -webkit-font-smoothing: antialiased;
+}
+
+footer{
+
+    background-color: rgb(247, 171, 185);
+    width: 100%;
+    height: 1%;
+    padding-bottom: 0.1%;
+
+}
+
+.logo_lavan{
+    margin-top: 10%;
+    margin-right: 40%;
+    width:35%;
+    height: 60%;
+    text-align:center;
+    float:right;
+}
+
+.titel_footer{
+    color: rgb(255, 255, 255);
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1cm;
+
+}
+
+
+.h7{
+ 
+  color: rgb(255, 255, 255);
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 0.6cm;
+}
+
+.h8{
+ 
+    color: rgb(255, 255, 255);
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 0.6cm;
+    margin-right: 13%;
+  }
+
+#animation{
+width: 100%;
+height: 55vh;
+background-image: url('2.jpg');
+background-size: 100% 100%;
+animation: anim1 step-end 5s infinite;
+background-position: center;
+}
+
+
+@keyframes anim1{
+0%  {
+background-image: url('2.jpg');
+}
+70%{
+background-image: url('1.jpg');
+}
+40%{
+background-image: url('10.jpg');
+}
+100%{
+background-image: url('2.jpg');
+}
+}
+
+.mutzarimImg{
+    text-align: center;
+    width:60%;
+    height:70%;
+    margin-top: 0.01%;
+    margin-right: 18%; 
+}
+
+
