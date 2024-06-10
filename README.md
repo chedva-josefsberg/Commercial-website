@@ -8,8 +8,6 @@ This project is a commercial website developed in the first year of study, creat
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure 📂
 
